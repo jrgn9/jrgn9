@@ -12,7 +12,7 @@ I'm currently on my last year of a bachelor's degree in computer science, curren
 
 🌱 **I’m currently learning** C#, .NET, frontend frameworks, AI, cyber security
 
-🤔 I’m currently looking for a new `job opportunity`
+🤔 **I’m currently looking for** a new `job opportunity`
 
 ## <img src="https://github.com/jrgn9/jrgn9/blob/main/brackets.gif" width ="25"><b> Skills</b>
 
@@ -22,7 +22,9 @@ I have a bachelor as elementary teacher and worked as a teacher for over five ye
 
 ### 🏫 School
 
-Subjects I've had.
+**[Elementary teacher bachelor](https://www.hiof.no/studier/programmer/maglu5-10-grunnskolelererutdanning-for-trinn-510/index.html):** Pedagogy, Science, Math, Pedagogical use of ICT, Music
+
+**[Computer science bachelor](https://www.oslomet.no/studier/tkd/informasjonsteknologi):** Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human Computer Interaction, Software Engineering, Algorithms and Data Structures, Networking and cloud computing, Operating Systems, Software Testing
 
 ### 👋 Interpersonal
 
