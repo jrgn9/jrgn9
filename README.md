@@ -1,20 +1,32 @@
 <!--Header from https://github.com/1010nishant-->
-<h1 align="center"><b>Hi , I'm jrgn </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm jrgn </b><img src="https://github.com/jrgn9/jrgn9/blob/main/wave.gif" width="35"></h1>
 <!--  -->
 
 ## <picture><img src = "https://github.com/jrgn9/jrgn9/blob/main/about_me.gif" width = 50px></picture> **About me**
 
-Something clever about me
+<picture> <img align="right" src="https://github.com/jrgn9/jrgn9/blob/main/Right_Side.gif?raw=true" width = 250px></picture>
+
+I'm currently on my last year of a bachelor's degree in computer science, currently looking for work after graduation. As a person, I am passionate about everything I do and get commited very quickly. I love problem solving and creative work!
+
+🔭 **I’m currently working on** [plog](https://github.com/jrgn9/plog)
+
+🌱 **I’m currently learning** C#, .NET, frontend frameworks, AI, cyber security
+
+🤔 I’m currently looking for a new `job opportunity`
 
 ## <img src="https://github.com/jrgn9/jrgn9/blob/main/brackets.gif" width ="25"><b> Skills</b>
 
 ### ✨ Experience
 
-I have a bachelor as elementary teacher and worked as a teacher for over five years. I am currently taking a bachelor's degree in computer science at OsloMet. I've been involved with many different organizations. One of them is [Hoppla Hesten](https://bandcamp.com/hopplahesten), a cultural collective and record label I've 
+I have a bachelor as elementary teacher and worked as a teacher for over five years. I am currently taking a bachelor's degree in computer science at OsloMet. I've been involved with many different organizations. One of them is [Hoppla Hesten](https://bandcamp.com/hopplahesten), a cultural collective and record label I founded and have been a leader of since 2011.
+
+### 🏫 School
+
+Subjects I've had.
 
 ### 👋 Interpersonal
 
-I'm a cool guy
+I'm a social and outgoing person. I love working with other people and working in teams. I am good at playing on other people's strengths and contributing where needed. Teaching others are a passion of mine, and I love to be around other people who can challenge me and give me new knowledge.
 
 ### 💾 Technologies
 
