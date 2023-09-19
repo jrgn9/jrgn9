@@ -8,13 +8,23 @@ Something clever about me
 
 ## <img src="https://github.com/jrgn9/jrgn9/blob/main/brackets.gif" width ="25"><b> Skills</b>
 
+### ✨ Experience
+
+I have a bachelor as elementary teacher and worked as a teacher for over five years. I am currently taking a bachelor's degree in computer science at OsloMet. I've been involved with many different organizations. One of them is [Hoppla Hesten](https://bandcamp.com/hopplahesten), a cultural collective and record label I've 
+
+### 👋 Interpersonal
+
+I'm a cool guy
+
 ### 💾 Technologies
 
-Some info about technologies
+I have experience with many different technologies. My biggest strength lies with Java and Bash. I am confident working with Linux, as it has been my main OS for a couple of years *(I use Arch btw)*. 
+
+**Some of the technologies I've used:**
 
 [![My skills](https://skillicons.dev/icons?i=java,js,bash,python,html,css,dotnet,mysql,powershell,git,docker,idea,vscode,vim,linux,raspberrypi&perline=8)](https://skillicons.dev)
 
-<h3 align="left" > <img src="https://github.com/jrgn9/jrgn9/blob/main/graphs.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h2 align="left" > <img src="https://github.com/jrgn9/jrgn9/blob/main/graphs.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
 <!--Media logos-->
 <p align="left">
