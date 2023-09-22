@@ -1,5 +1,5 @@
 <!--Header from https://github.com/1010nishant-->
-<h1 align="center"><b>Hi , I'm jrgn </b><img src="https://github.com/jrgn9/jrgn9/blob/main/wave.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm jrgn </b><picture><img src="https://github.com/jrgn9/jrgn9/blob/main/wave.gif" width="35"></picture></h1>
 <!--  -->
 
 ## <picture><img src = "https://github.com/jrgn9/jrgn9/blob/main/about_me.gif" width = 50px></picture> **About me**
@@ -14,7 +14,7 @@ I'm currently on my last year of a bachelor's degree in computer science, curren
 
 🤔 **I’m currently looking for** a new `job opportunity`
 
-## <img src="https://github.com/jrgn9/jrgn9/blob/main/brackets.gif" width ="25"><b> Skills</b>
+## <picture><img src="https://github.com/jrgn9/jrgn9/blob/main/brackets.gif" width ="25"></picture><b> Skills</b>
 
 ### ✨ Experience
 
