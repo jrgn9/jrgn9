@@ -6,7 +6,7 @@
 
 <picture> <img align="right" src="https://github.com/jrgn9/jrgn9/blob/main/Right_Side.gif" width = 200px></picture>
 
-I'm currently on my last year of a bachelor's degree in computer science, currently looking for work after graduation. As a person, I am passionate about everything I do and get commited very quickly. I love problem solving and creative work!
+I'm currently on my last year of a bachelor's degree in computer science, currently doing my bachelor's theses. As a person, I am passionate about everything I do and get commited very quickly. I love problem solving and creative work!
 
 🔭 **I’m currently working on** [plog](https://github.com/jrgn9/plog) and my home server
 
