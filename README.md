@@ -8,11 +8,9 @@
 
 I'm currently on my last year of a bachelor's degree in computer science, currently looking for work after graduation. As a person, I am passionate about everything I do and get commited very quickly. I love problem solving and creative work!
 
-🔭 **I’m currently working on** [plog](https://github.com/jrgn9/plog)
+🔭 **I’m currently working on** [plog](https://github.com/jrgn9/plog) and my home server
 
-🌱 **I’m currently learning** C#, .NET, frontend frameworks, AI, cyber security
-
-🤔 **I’m currently looking for** a new `job opportunity`
+🌱 **I’m currently learning** C#, .NET, test pipelines, system and network administration 
 
 ## <picture><img src="https://github.com/jrgn9/jrgn9/blob/main/brackets.gif" width ="25"></picture><b> Skills</b>
 
@@ -24,7 +22,7 @@ I have a bachelor as elementary teacher and worked as a teacher for over five ye
 
 **[Elementary teacher bachelor](https://www.hiof.no/studier/programmer/maglu5-10-grunnskolelererutdanning-for-trinn-510/index.html):** Pedagogy, Science, Math, Pedagogical use of ICT, Music
 
-**[Computer science bachelor](https://www.oslomet.no/studier/tkd/informasjonsteknologi):** Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human Computer Interaction, Software Engineering, Algorithms and Data Structures, Networking and cloud computing, Operating Systems, Software Testing
+**[Computer science bachelor](https://www.oslomet.no/studier/tkd/informasjonsteknologi):** Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human Computer Interaction, Software Engineering, Algorithms and Data Structures, Networking and cloud computing, Operating Systems, Software Testing, Introduction to Artificial Intelligence, Computer Security, Web Applications
 
 ### 👋 Interpersonal
 
@@ -67,4 +65,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Last Edited on: 19/08/2023
+Last Edited on: 03/03/2024
