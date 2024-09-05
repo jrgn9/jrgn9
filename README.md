@@ -8,7 +8,7 @@
 
 I am working as a software engineer at Nevion. As a person, I am passionate about everything I do and get commited very quickly. I love problem solving and creative work!
 
-🔭 **I’m currently working on** [plog](https://github.com/jrgn9/cheater) and my home server
+🔭 **I’m currently working on** [Cheater](https://github.com/jrgn9/cheater) and my home server
 
 🌱 **I’m currently learning** Scala 
 
@@ -34,7 +34,7 @@ I have experience with many different technologies. My biggest strength lies wit
 
 **Some of the technologies I've used:**
 
-[![My skills](https://skillicons.dev/icons?i=java,scala,bash,python,js,html,css,dotnet,mysql,powershell,git,docker,idea,vscode,vim,linux,raspberrypi&perline=8)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=java,scala,bash,python,js,html,css,dotnet,mysql,powershell,git,docker,idea,vscode,vim,linux,raspberrypi&perline=9)](https://skillicons.dev)
 
 <h2 align="left" > <img src="https://github.com/jrgn9/jrgn9/blob/main/graphs.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
@@ -42,7 +42,7 @@ I have experience with many different technologies. My biggest strength lies wit
 <p align="left">
  <div align="left"  class="icons-social" style="margin-left: 10px;">
   <a style="margin-left: 10px;"  target="_blank" href="https://www.jrgn.me">
-     <img src="https://github.com/jrgn9/jrgn9/blob/main/linkedin_logo.png"></a>
+     <img src="https://github.com/jrgn9/jrgn9/blob/main/home.png"></a>
    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jrgn9/">
      <img src="https://github.com/jrgn9/jrgn9/blob/main/linkedin_logo.png"></a>
    <a style="margin-left: 10px;" target="_blank" href="https://github.com/jrgn9">
