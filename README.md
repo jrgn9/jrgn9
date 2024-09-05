@@ -6,23 +6,23 @@
 
 <picture> <img align="right" src="https://github.com/jrgn9/jrgn9/blob/main/Right_Side.gif" width = 200px></picture>
 
-I'm currently on my last year of a bachelor's degree in computer science, currently doing my bachelor's theses. As a person, I am passionate about everything I do and get commited very quickly. I love problem solving and creative work!
+I am working as a software engineer at Nevion. As a person, I am passionate about everything I do and get commited very quickly. I love problem solving and creative work!
 
-🔭 **I’m currently working on** [plog](https://github.com/jrgn9/plog) and my home server
+🔭 **I’m currently working on** [plog](https://github.com/jrgn9/cheater) and my home server
 
-🌱 **I’m currently learning** C#, .NET, test pipelines, system and network administration 
+🌱 **I’m currently learning** Scala 
 
 ## <picture><img src="https://github.com/jrgn9/jrgn9/blob/main/brackets.gif" width ="25"></picture><b> Skills</b>
 
 ### ✨ Experience
 
-I have a bachelor as elementary teacher and worked as a teacher for over five years. I am currently taking a bachelor's degree in computer science at OsloMet. I've been involved with many different organizations. One of them is [Hoppla Hesten](https://bandcamp.com/hopplahesten), a cultural collective and record label I founded and have been a leader of since 2011.
+I have a bachelor's degree in computer science at OsloMet.I also have a bachelor as elementary teacher and worked as a teacher for over five years. I've been involved with many different organizations. One of them is [Hoppla Hesten](https://bandcamp.com/hopplahesten), a cultural collective and record label I founded and have been a leader of since 2011.
 
 ### 🏫 School
 
 **[Elementary teacher bachelor](https://www.hiof.no/studier/programmer/maglu5-10-grunnskolelererutdanning-for-trinn-510/index.html):** Pedagogy, Science, Math, Pedagogical use of ICT, Music
 
-**[Computer science bachelor](https://www.oslomet.no/studier/tkd/informasjonsteknologi):** Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human Computer Interaction, Software Engineering, Algorithms and Data Structures, Networking and cloud computing, Operating Systems, Software Testing, Introduction to Artificial Intelligence, Computer Security, Web Applications
+**[Computer science bachelor](https://www.oslomet.no/studier/tkd/informasjonsteknologi):** Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human Computer Interaction, Software Engineering, Algorithms and Data Structures, Networking and cloud computing, Operating Systems, Software Testing, Introduction to Artificial Intelligence, Computer Security, Web Applications, Network and System Administration
 
 ### 👋 Interpersonal
 
@@ -34,13 +34,15 @@ I have experience with many different technologies. My biggest strength lies wit
 
 **Some of the technologies I've used:**
 
-[![My skills](https://skillicons.dev/icons?i=java,js,bash,python,html,css,dotnet,mysql,powershell,git,docker,idea,vscode,vim,linux,raspberrypi&perline=8)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=java,scala,bash,python,js,html,css,dotnet,mysql,powershell,git,docker,idea,vscode,vim,linux,raspberrypi&perline=8)](https://skillicons.dev)
 
 <h2 align="left" > <img src="https://github.com/jrgn9/jrgn9/blob/main/graphs.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
 <!--Media logos-->
 <p align="left">
  <div align="left"  class="icons-social" style="margin-left: 10px;">
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.jrgn.me">
+     <img src="https://github.com/jrgn9/jrgn9/blob/main/linkedin_logo.png"></a>
    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/jrgn9/">
      <img src="https://github.com/jrgn9/jrgn9/blob/main/linkedin_logo.png"></a>
    <a style="margin-left: 10px;" target="_blank" href="https://github.com/jrgn9">
