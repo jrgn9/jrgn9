@@ -2,6 +2,11 @@
 <h1 align="center"><b>Hi , I'm jrgn </b><picture><img src="https://github.com/jrgn9/jrgn9/blob/main/wave.gif" width="35"></picture></h1>
 <!--  -->
 
+> ### ⚠️ Migrated to Codeberg
+>
+> I have moved to [Codeberg](https://codeberg.org/jrgn9) as I do not want to support Microsoft more than I have to.
+> This profile is now only to keep track of projects hosted on Github.
+
 ## <picture><img src = "https://github.com/jrgn9/jrgn9/blob/main/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/jrgn9/jrgn9/blob/main/Right_Side.gif" width = 200px></picture>
